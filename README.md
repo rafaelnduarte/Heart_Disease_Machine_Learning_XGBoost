@@ -16,5 +16,5 @@ Unquestionably, the use of Artificial Intelligence has deeply impacted the healt
 This is the objective of this project. Hope you enjoy it!
 
 <p align="center" >
-  <img src="/img/rafaelnd_ds.png" >
+  <img src="data/img/rafaelnd_ds.png" >
 </p>
