@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-rafaelnduarte-red.svg)](https://www.linkedin.com/in/rafael-n-duarte) [![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/Titanic_Kaggle/issues)
 
-# Exploratory Data Analysis - Heart Diseases
+# Heart Diseases - Machine Learning (XGBoost)
 
 Heart disease is the leading cause of death in the United States, according to the Centers for Disease Control and Prevention (CDC)(https://www.cdc.gov/heartdisease/facts.htm). In the United States, 1 in every 4 deaths is the result of heart disease. That’s about 610,000 people who die from the condition each year.
 
@@ -13,7 +13,7 @@ Studies published in the magazine Nature Biomedical Engineering(https://www.natu
 
 Unquestionably, the use of Artificial Intelligence has deeply impacted the health area and has provided doctors and other health professionals with intelligence data that are becoming even more precise.
 
-This is the objective of this project. Hope you enjoy it!
+The objective of this project is to provide a comprehensive analysis of the dataset, understand the variables related to heart disease, and build a Machine Learning model to predict Heart Disease cases based on the patient's data.
 
 <p align="center" >
   <img src="data/img/rafaelnd_ds.png" >
