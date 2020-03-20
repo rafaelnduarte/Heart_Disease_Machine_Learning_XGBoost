@@ -21,5 +21,5 @@ Unquestionably, the use of Artificial Intelligence has deeply impacted the healt
 The objective of this project is to provide a comprehensive analysis of the dataset, understand the variables related to heart disease, and build a Machine Learning model to predict Heart Disease cases based on the patient's data.
 
 <p align="center" >
-  <img src="data/img/rafaelnd_ds.png" >
+  <img src="rafaelnd_banner.png" width=70% >
 </p>
